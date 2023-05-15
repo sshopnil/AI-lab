@@ -1,0 +1,2 @@
+Solution path S-A-G
+Solution cost 2.0
